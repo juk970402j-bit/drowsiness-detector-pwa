@@ -1,0 +1,27 @@
+{
+    "name": "AI 疲勞偵測 PWA",
+    "short_name": "AI Detector",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "基於 MediaPipe Face Mesh 的即時 AI 疲勞與分心偵測應用程式。",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png", 
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/maskable_icon.png", 
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
